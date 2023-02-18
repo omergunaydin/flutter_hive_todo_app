@@ -1,16 +1,14 @@
-# flutter_hive_todo_app
 
-A new Flutter project.
+# Hive Todo App Info
 
-## Getting Started
+A flutter todo application that uses the hive database.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/omergunaydin/flutter_hive_todo_app/master/assets/images/todo1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/omergunaydin/flutter_hive_todo_app/master/assets/images/todo2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/omergunaydin/flutter_hive_todo_app/master/assets/images/todo3.png)
+
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/omergunaydin/flutter_hive_todo_app/master/assets/images/todo4.png)
